@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc957809-d7f6-4f20-8ab3-9be009497d25" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fc957809-d7f6-4f20-8ab3-9be009497d25" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,17 +63,6 @@
               <item name="youtube" type="b2602c69:ProjectViewProjectNode" />
               <item name="youtube" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="youtube" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youtube" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="youtube" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youtube" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -90,6 +76,11 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\youtube" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -122,16 +113,15 @@
       <workItem from="1555743032007" duration="1342000" />
       <workItem from="1555749364742" duration="2575000" />
       <workItem from="1555913585191" duration="194000" />
-      <workItem from="1555915502210" duration="6442000" />
+      <workItem from="1555915502210" duration="6804000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31497000" />
+    <option name="totallyTimeSpent" value="31859000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="4" width="1366" height="720" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1669219" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
