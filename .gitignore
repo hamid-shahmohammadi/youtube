@@ -1,3 +1,4 @@
 /uploads/videos/*.mp4
 /uploads/videos/thumbnails/*.jpg
 /ffmpeg
+1.flv
